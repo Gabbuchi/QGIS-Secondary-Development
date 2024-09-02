@@ -1,7 +1,7 @@
 笔记在wiki里
 
 ## 主界面
-主要有工程文件读取、图层添加、基本显示工具插件（例如放大缩小移动等）、鼠标框选的要素读取、要素样式修改、根据经纬度添加marker等功能
+基于qgis二次开发，主要开发诸如工程文件读取、图层添加、基本显示工具插件（例如放大缩小移动等）、鼠标框选的要素读取、要素样式修改、根据经纬度添加marker等基本功能
 ![image](https://github.com/Gabbuchi/QGIS-Secondary-Development/blob/ver.5/pictures/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
 ## 要素读取
